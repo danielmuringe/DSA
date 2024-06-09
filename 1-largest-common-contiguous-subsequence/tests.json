@@ -1,0 +1,409 @@
+[
+    {
+        "pair": [
+            "Xẞ03caxcas3AD4caxcasTGF4X",
+            "Yajk923qo3caxcas3093pd4caxcasTGF4ÖY"
+        ],
+        "expected_lccs_vals": [
+            "4caxcasTGF4"
+        ]
+    },
+    {
+        "pair": [
+            "Xẞ03pqrs3AD4caxcasTGF4X",
+            "Yajk923qo3pqr3093pd4caxcasTGF4ÖY"
+        ],
+        "expected_lccs_vals": [
+            "4caxcasTGF4"
+        ]
+    },
+    {
+        "pair": [
+            "diction",
+            "dictionary"
+        ],
+        "expected_lccs_vals": [
+            "diction"
+        ]
+    },
+    {
+        "pair": [
+            "rewetition",
+            "walpitation"
+        ],
+        "expected_lccs_vals": [
+            "tion"
+        ]
+    },
+    {
+        "pair": [
+            "xmrxmrsx",
+            "mrsyp"
+        ],
+        "expected_lccs_vals": [
+            "mrs"
+        ]
+    },
+    {
+        "pair": [
+            "xmrxmrsx",
+            "ymrsy"
+        ],
+        "expected_lccs_vals": [
+            "mrs"
+        ]
+    },
+    {
+        "pair": [
+            "find",
+            "finding"
+        ],
+        "expected_lccs_vals": [
+            "find"
+        ]
+    },
+    {
+        "pair": [
+            "abcde",
+            "bcde"
+        ],
+        "expected_lccs_vals": [
+            "bcde"
+        ]
+    },
+    {
+        "pair": [
+            "algorithm",
+            "algorithmic"
+        ],
+        "expected_lccs_vals": [
+            "algorithm"
+        ]
+    },
+    {
+        "pair": [
+            "abracadabra",
+            "racadabra"
+        ],
+        "expected_lccs_vals": [
+            "racadabra"
+        ]
+    },
+    {
+        "pair": [
+            "science",
+            "silent"
+        ],
+        "expected_lccs_vals": [
+            "en"
+        ]
+    },
+    {
+        "pair": [
+            "function",
+            "functional"
+        ],
+        "expected_lccs_vals": [
+            "function"
+        ]
+    },
+    {
+        "pair": [
+            "computer",
+            "compare"
+        ],
+        "expected_lccs_vals": [
+            "comp"
+        ]
+    },
+    {
+        "pair": [
+            "hello",
+            "world"
+        ],
+        "expected_lccs_vals": [
+            "o",
+            "l"
+        ]
+    },
+    {
+        "pair": [
+            "abracadabra",
+            "abacus"
+        ],
+        "expected_lccs_vals": [
+            "ab",
+            "ac"
+        ]
+    },
+    {
+        "pair": [
+            "banana",
+            "fannypack"
+        ],
+        "expected_lccs_vals": [
+            "an"
+        ]
+    },
+    {
+        "pair": [
+            "mississippi",
+            "sipping"
+        ],
+        "expected_lccs_vals": [
+            "sippi"
+        ]
+    },
+    {
+        "pair": [
+            "comfortable",
+            "fortress"
+        ],
+        "expected_lccs_vals": [
+            "fort"
+        ]
+    },
+    {
+        "pair": [
+            "telephone",
+            "microscope"
+        ],
+        "expected_lccs_vals": [
+            "e",
+            "o",
+            "p"
+        ]
+    },
+    {
+        "pair": [
+            "python",
+            "javascript"
+        ],
+        "expected_lccs_vals": [
+            "p",
+            "t"
+        ]
+    },
+    {
+        "pair": [
+            "mathematics",
+            "mathematical"
+        ],
+        "expected_lccs_vals": [
+            "mathematic"
+        ]
+    },
+    {
+        "pair": [
+            "development",
+            "environment"
+        ],
+        "expected_lccs_vals": [
+            "ment"
+        ]
+    },
+    {
+        "pair": [
+            "Mississippi",
+            "River"
+        ],
+        "expected_lccs_vals": [
+            "i"
+        ]
+    },
+    {
+        "pair": [
+            "communication",
+            "community"
+        ],
+        "expected_lccs_vals": [
+            "communi"
+        ]
+    },
+    {
+        "pair": [
+            "programming",
+            "competitive"
+        ],
+        "expected_lccs_vals": [
+            "i",
+            "m",
+            "p",
+            "o"
+        ]
+    },
+    {
+        "pair": [
+            "superintendent",
+            "intend"
+        ],
+        "expected_lccs_vals": [
+            "intend"
+        ]
+    },
+    {
+        "pair": [
+            "initialization",
+            "finalize"
+        ],
+        "expected_lccs_vals": [
+            "aliz"
+        ]
+    },
+    {
+        "pair": [
+            "abcdefghijklmnopqrstuvwxyz",
+            "bcdefghijklmnopqrstuvwxy"
+        ],
+        "expected_lccs_vals": [
+            "bcdefghijklmnopqrstuvwxy"
+        ]
+    },
+    {
+        "pair": [
+            "reverse",
+            "every"
+        ],
+        "expected_lccs_vals": [
+            "ever"
+        ]
+    },
+    {
+        "pair": [
+            "function",
+            "functional"
+        ],
+        "expected_lccs_vals": [
+            "function"
+        ]
+    },
+    {
+        "pair": [
+            "challenge",
+            "changeable"
+        ],
+        "expected_lccs_vals": [
+            "cha",
+            "nge"
+        ]
+    },
+    {
+        "pair": [
+            "subsequence",
+            "sequence"
+        ],
+        "expected_lccs_vals": [
+            "sequence"
+        ]
+    },
+    {
+        "pair": [
+            "enthusiasm",
+            "astic"
+        ],
+        "expected_lccs_vals": [
+            "as"
+        ]
+    },
+    {
+        "pair": [
+            "comparison",
+            "comprehend"
+        ],
+        "expected_lccs_vals": [
+            "comp"
+        ]
+    },
+    {
+        "pair": [
+            "development",
+            "developer"
+        ],
+        "expected_lccs_vals": [
+            "develop"
+        ]
+    },
+    {
+        "pair": [
+            "performance",
+            "former"
+        ],
+        "expected_lccs_vals": [
+            "form"
+        ]
+    },
+    {
+        "pair": [
+            "abcdefghijklmnopqrstuvwxyz",
+            "nopqrstuvwxyz"
+        ],
+        "expected_lccs_vals": [
+            "nopqrstuvwxyz"
+        ]
+    },
+    {
+        "pair": [
+            "1234567890",
+            "5678901234"
+        ],
+        "expected_lccs_vals": [
+            "567890"
+        ]
+    },
+    {
+        "pair": [
+            "code",
+            "javascript"
+        ],
+        "expected_lccs_vals": [
+            "c"
+        ]
+    },
+    {
+        "pair": [
+            "helloworld",
+            "worldhello"
+        ],
+        "expected_lccs_vals": [
+            "hello",
+            "world"
+        ]
+    },
+    {
+        "pair": [
+            "worldhello",
+            "helloworld"
+        ],
+        "expected_lccs_vals": [
+            "hello",
+            "world"
+        ]
+    },
+    {
+        "pair": [
+            "hello",
+            "world hello"
+        ],
+        "expected_lccs_vals": [
+            "hello"
+        ]
+    },
+    {
+        "pair": [
+            "hello",
+            "hello world"
+        ],
+        "expected_lccs_vals": [
+            "hello"
+        ]
+    },
+    {
+        "pair": [
+            "start",
+            "start"
+        ],
+        "expected_lccs_vals": [
+            "start"
+        ]
+    }
+]
